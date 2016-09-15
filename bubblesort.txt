@@ -1,0 +1,7 @@
+1º)Iremos definir posições antes de começar.
+2º)Fixe uma posição da carta.
+3º)Comece trocando a carta da posição nº1 com a carta da posição nº2. Como iremos pôr em ordem crescente, se a carta de posição nº1 for maior que a de nº2, a carta de posição nº2 irá para a posição 1, e iremos verificar a carta da posição 1 com a de posição nº3 e assim por diante, nº1 e nº4, nº1 e nº5.
+4º)Após isso iremos fixar a carta na posição 2 e iremos verificar com a 3, 4 e 5, respectivamente.
+5º)Agora iremos fixar a carta que está na posição nº3 e vereficaremos com a nº4 e depois a 3 com a 5.
+6º)Fixe a carta da posição nº4 e compare com a carta da nº5.
+7º)Após isso suas 5 cartas estarão em ordem crescente.
