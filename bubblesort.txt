@@ -2,19 +2,12 @@
 2º)Se a carta 1 for maior que a carta 2, troque-as de lugar.
 3º)Desvire as cartas de posição 1 e 2.
 4º)Vire as cartas de posição 2 e 3.
-5º)Se a carta 2 for maior que a carta 3, troqueas de posição.
+5º)Se a carta 2 for maior que a carta 3, troque-as de lugar.
 6º)Desvire as cartas de posição 2 e 3.
 7º)Vire as cartas de posição 3 e 4.
-8º)Se a carta 3 for maior que a carta 4, troqueas de posição.
-9º)
-10º
-11º
-12
-13
-14
-15
-16
-17
-18
-19
-20
+8º)Se a carta 3 for maior que a carta 4, troque-as de lugar.
+9º)Desvire as cartas de posição 3 e 4.
+10º)Vire as cartas de posição 4 e 5.
+11º)Se a carta 4 for maior que a carta 5, troque-as de lugar.
+12º)Desvire as cartas de posição 4 e 5.
+13º)Repita o processo até que todas as cartas estejão em ordem crescente.
