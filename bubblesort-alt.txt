@@ -1,5 +1,5 @@
 1º) Fixe posições de 1 até N
-2º) Após isso, fixe uma carta na posição 1 e verifique a carta seguinte, 2, se a carta 2 for menor que a 1 você deve trocá-la de posição, se for maior mantenha-a no lugar
-3º) Repita o processo com todas as cartas na ordem das posições, sempre mantendo a posição 1 fixada e trocando-as quando necessário
-4º) Após a checagem total até a carta da posição N, iremos repetir o processo com a carta subsequente até fixarmos N-1 e compará-la com N
-5º) Feito isso, suas cartas estarão em ordem crescente
+2º) Após isso, fixe uma carta na posição 1 e verifique a carta seguinte, 2, se a carta 2 for menor que a 1 você deve trocá-la de posição, se for maior mantenha-a no lugar e desvire-as.
+3º) Repita o processo com todas as cartas na ordem das posições, sempre mantendo a posição 1 fixada, trocando-as quando necessário e desvirando-as.
+4º) Após a checagem total até a carta da posição N, iremos repetir o processo com a carta subsequente até fixarmos N-1 e compará-la com N.
+5º) Feito isso, suas cartas estarão em ordem crescente.
